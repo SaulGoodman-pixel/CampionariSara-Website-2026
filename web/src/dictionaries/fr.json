@@ -1,0 +1,303 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "company": "Entreprise",
+        "how_we_work": "Savoir-faire",
+        "products": "Produits",
+        "consultancy": "Conseil",
+        "news": "Actualités",
+        "contacts": "Contacts",
+        "cta_quote": "Devis"
+    },
+    "home": {
+        "hero": {
+            "title": "Campionari Sara Group",
+            "subtitle": "Depuis plus de 40 ans, la référence en matière de qualité absolue et de fiabilité dans la création d'échantillons textiles.",
+            "cta_primary": "Demander un devis",
+            "cta_secondary": "Parlez-nous",
+            "eyebrow": "Depuis plus de 40 ans"
+        },
+        "intro": {
+            "title": "Processus intégré",
+            "text": "Contrôle total, de la conception à l'échantillon terminé.",
+            "list": [
+                "Chaîne d'approvisionnement interne sans dépendance externe.",
+                "Respect rigoureux des délais et de la qualité.",
+                "Gestion souple des gros volumes."
+            ]
+        },
+        "what_we_do": {
+            "title": "Ce que nous produisons",
+            "subtitle": "Des solutions d'affichage conçues pour mettre en valeur les matériaux, les couleurs et les collections.",
+            "list": [
+                "Échantillons textiles",
+                "Cintres (Tirelle)",
+                "Cartes de couleurs",
+                "Mémos",
+                "Reliure"
+            ]
+        },
+        "departments": {
+            "title": "Départements internes",
+            "list": "Confection, Reliure, Sérigraphie, Marquage à chaud, Soudure PVC, Impression numérique, Bureau graphique."
+        },
+        "tailored": {
+            "title": "Solutions sur mesure",
+            "text": "Notre département créatif transforme vos besoins en projets concrets. Nous développons des solutions ad hoc alliant esthétique et fonctionnalité, optimisant les coûts et le rendement."
+        },
+        "works": {
+            "title": "Réalisations",
+            "text": "Nos projets parlent pour nous.",
+            "cta": "Voir Portfolio"
+        },
+        "consultancy": {
+            "title": "Conseil & Ingénierie",
+            "text": "Nous exportons notre savoir-faire dans le monde entier (Arabie Saoudite, Inde, Chine, Espagne, Mexique). Nous offrons des conseils techniques, des achats de machines et un service après-vente.",
+            "cta": "Découvrir nos services de conseil"
+        },
+        "contacts": {
+            "title": "Contactez-nous",
+            "text": "Parlez-nous de votre prochain projet. Des réponses rapides et concrètes.",
+            "cta_form": "Aller au formulaire",
+            "cta_whatsapp": "WhatsApp",
+            "kicker": "Démarrer un projet"
+        },
+        "stats": {
+            "years_label": "Années d'expérience",
+            "supply_chain_label": "Chaîne d'approvisionnement intégrée",
+            "world_title": "Monde",
+            "export_label": "Export & conseil global",
+            "countries": "Arabie Saoudite, Inde, Chine, Espagne, Mexique."
+        },
+        "products": {
+            "kicker": "Nos produits",
+            "campionari_title": "Échantillons Textiles",
+            "campionari_desc": "Livres, classeurs et systèmes d'exposition",
+            "tirelle_title": "Cintres & Mémos",
+            "tirelle_desc": "Échantillons, liasses et nuanciers"
+        }
+    },
+    "footer": {
+        "vat": "TVA 08135450966",
+        "rights": "© 2026 Campionari Sara Group. Tous droits réservés.",
+        "address": "Via Gioberti 22 — 20851 Lissone (MB) Italie",
+        "links": {
+            "privacy": "Politique de confidentialité",
+            "cookies": "Politique relative aux cookies"
+        },
+        "locations_label": "Adresses",
+        "czech_republic": "République tchèque"
+    },
+    "common": {
+        "read_more": "En savoir plus",
+        "back": "Retour",
+        "expand_gallery": "Développer la galerie",
+        "close": "Fermer",
+        "back_to_products": "Retour aux produits"
+    },
+    "azienda": {
+        "title": "Notre Histoire",
+        "subtitle": "Depuis plus de 40 ans, la référence de la qualité absolue et de la fiabilité dans le domaine de l'échantillonnage textile.",
+        "supplyTitle": "Chaîne d'approvisionnement complète",
+        "supplyText": "Du concept au produit fini. Nous gérons la couture, la reliure, la sérigraphie, le marquage à chaud, l'impression numérique et disposons d'un bureau d'assistance graphique en interne.",
+        "visionTitle": "Vision",
+        "visionText": "Qualité, Rapidité, Fiabilité.",
+        "imageLabel": "IMAGE : INTÉRIEUR USINE / PRODUCTION",
+        "paragraphs_top": [
+            "Avec plus de 40 ans d'expérience, Campionari Sara Group est une référence dans l'industrie de l'échantillonnage textile. Notre philosophie repose sur trois piliers essentiels : une qualité absolue, une fiabilité constante et une ponctualité rigoureuse pour chaque livraison.",
+            "Nous sommes fiers de gérer l'intégralité de la chaîne de production en interne. De la couture et de la reliure à la sérigraphie, du marquage à chaud à la soudure PVC, jusqu'à l'impression numérique et notre département graphique dédié, chaque étape est contrôlée pour garantir l'excellence."
+        ],
+        "paragraphs_bottom": [
+            "Cette structure intégrée nous permet de répondre avec une extrême flexibilité aux demandes du marché, en traitant aussi bien les petits lots que les grands volumes de production avec le même soin, toujours grâce à des solutions sur mesure conçues pour mettre en valeur au mieux chaque matériau.",
+            "Vous pourrez toujours compter sur le soutien de professionnels dévoués, prêts à vous accompagner à chaque étape de votre projet et à identifier des solutions précises pour chaque besoin. Derrière ce service, une équipe solide et hautement qualifiée : ouvriers expérimentés, spécialistes du textile, relieurs, sérigraphes, graphistes et experts en communication, œuvrant tous en synergie pour transformer chaque demande en un résultat concret, soigné dans les moindres détails.",
+            "Pour nous, chaque catalogue d'échantillons n'est pas simplement un produit, mais un outil stratégique capable d'exprimer au mieux l'identité et la valeur de la marque qu'il représente."
+        ],
+        "products_title": "Nos Produits",
+        "view_all": "Voir Tout"
+    },
+    "contacts": {
+        "title": "Contactez-nous",
+        "text": "Parlez-nous de votre prochain projet. Des réponses rapides et concrètes.",
+        "privacy_error": "Veuillez accepter la politique de confidentialité pour continuer.",
+        "thank_you_title": "Merci!",
+        "thank_you_text": "Nous avons reçu votre demande. Nous vous répondrons dans les plus brefs délais.",
+        "email_label": "Écrivez-nous",
+        "locations_label": "Nos adresses",
+        "czech_republic": "République tchèque",
+        "name_label": "Nom et Prénom",
+        "company_label": "Entreprise",
+        "phone_label": "Téléphone",
+        "sector_label": "Secteur",
+        "sector_sample_books": "Échantillons / Books",
+        "sector_hangers": "Cintres",
+        "sector_color_cards": "Nuanciers",
+        "sector_memos": "Memos",
+        "sector_bookbinding": "Reliure / Spéciaux",
+        "sector_other": "Autre",
+        "message_label": "Comment pouvons-nous vous aider?",
+        "privacy_text": "J'ai lu et j'accepte la ",
+        "privacy_link": "Politique de confidentialité",
+        "submit": "Envoyer la demande"
+    },
+    "how_we_work": {
+        "title": "Comment nous travaillons",
+        "subtitle": "Du concept à la livraison : un flux de travail optimisé.",
+        "steps": [
+            {
+                "title": "1. Conseil & Prototypage",
+                "text": "Nous analysons vos besoins et créons des prototypes fidèles pour évaluer les matériaux et les finitions avant la production."
+            },
+            {
+                "title": "2. Production intégrée",
+                "text": "Nous gérons chaque étape en interne : coupe, impression, assemblage et emballage, garantissant un contrôle total de la qualité."
+            },
+            {
+                "title": "3. Contrôle de qualité",
+                "text": "Chaque pièce est rigoureusement inspectée pour s'assurer qu'elle répond aux normes convenues."
+            },
+            {
+                "title": "4. Logistique mondiale",
+                "text": "Nous expédions dans le monde entier avec un emballage sûr et des partenaires fiables pour assurer la ponctualité et l'intégrité."
+            }
+        ],
+        "highlights": [
+            {
+                "title": "Processus intégré",
+                "text": "De la conception à l'échantillon final, avec traitement en interne et contrôle qualité."
+            },
+            {
+                "title": "Délais & Fiabilité",
+                "text": "Planification, traçabilité et respect rigoureux des délais de livraison."
+            },
+            {
+                "title": "Flexibilité de production",
+                "text": "Nous gérons les petites séries et les grands volumes, avec des solutions sur mesure."
+            }
+        ]
+    },
+    "products": {
+        "title": "Produits",
+        "subtitle": "Excellentes solutions d'affichage pour tissus, cuirs et matériaux.",
+        "list": [
+            {
+                "id": "campionari",
+                "title": "Échantillons Textiles",
+                "desc": "Livres et classeurs sur mesure.",
+                "longDesc": "Livres et classeurs réalisés sur mesure pour chaque besoin d'affichage. L'artisanat combiné à la précision industrielle pour valoriser vos collections.",
+                "image": "/products/campionari/campionari-1.png",
+                "images": [
+                    "/products/campionari/campionari-1.png",
+                    "/products/campionari/campionari-2.jpg",
+                    "/products/campionari/campionari-3.jpg",
+                    "/products/campionari/campionari-4.jpg",
+                    "/products/campionari/campionari-5.jpg"
+                ]
+            },
+            {
+                "id": "tirelle",
+                "title": "Tirelles (Cintres)",
+                "desc": "La solution la plus pratique.",
+                "longDesc": "La solution la plus pratique et élégante pour des échantillons flexibles et maniables. Des crochets personnalisés et des finitions de qualité supérieure pour une expérience tactile immédiate.",
+                "image": "/products/tirelle/tirelle-1.jpg",
+                "images": [
+                    "/products/tirelle/tirelle-1.jpg",
+                    "/products/tirelle/tirelle-2.jpg",
+                    "/products/tirelle/tirelle-3.png",
+                    "/products/tirelle/tirelle-4.jpg"
+                ]
+            },
+            {
+                "id": "cartelle",
+                "title": "Cartes de Couleurs",
+                "desc": "La précision fait tout.",
+                "longDesc": "Un collage millimétrique pour une présentation impeccable des couleurs. Précision technique absolue pour des catalogues de couleurs au design épuré et professionnel.",
+                "image": "/products/cartelle/cartelle-1.png",
+                "images": [
+                    "/products/cartelle/cartelle-1.png",
+                    "/products/cartelle/cartelle-2.jpg",
+                    "/products/cartelle/cartelle-3.jpg",
+                    "/products/cartelle/cartelle-4.jpg",
+                    "/products/cartelle/cartelle-5.jpg"
+                ]
+            },
+            {
+                "id": "memos",
+                "title": "Mémos",
+                "desc": "Outils agiles.",
+                "longDesc": "Outils agiles pour distribuer vos tissus sous forme compacte. Échantillons et mémos conçus pour optimiser la consultation et la vente.",
+                "image": "/products/memos/memos-1.jpg",
+                "images": [
+                    "/products/memos/memos-1.jpg",
+                    "/products/memos/memos-2.jpg",
+                    "/products/memos/memos-3.jpg",
+                    "/products/memos/memos-4.jpg"
+                ]
+            },
+            {
+                "id": "legatoria",
+                "title": "Reliure",
+                "desc": "Au-delà de l'échantillonnage.",
+                "longDesc": "Finitions de luxe et constructions spéciales pour des emballages et des classeurs exceptionnels. Créativité et maîtrise dans le traitement des matériaux pour des outils de marquage uniques.",
+                "image": "/products/legatoria/legatoria-1.jpg",
+                "images": [
+                    "/products/legatoria/legatoria-1.jpg"
+                ]
+            }
+        ]
+    },
+    "consultancy": {
+        "title": "Conseil & Ingénierie",
+        "subtitle": "Pas seulement la production : nous apportons notre savoir-faire dans votre entreprise.",
+        "services": [
+            {
+                "title": "Ingénierie des processus",
+                "desc": "Optimisation du flux de travail pour la production interne."
+            },
+            {
+                "title": "Machines et Équipements",
+                "desc": "Sélection, achat et installation."
+            },
+            {
+                "title": "Assistance et pièces de rechange",
+                "desc": "Assistance technique après-vente."
+            }
+        ],
+        "ctaTitle": "Besoin d'assistance technique ?",
+        "ctaButton": "Parlez à un technicien"
+    },
+    "news": {
+        "title": "Actualités & Événements",
+        "items": [
+            {
+                "date": "15.01.2026",
+                "category": "Salons",
+                "title": "Heimtextil 2026 : Les nouvelles tendances"
+            },
+            {
+                "date": "10.12.2025",
+                "category": "Entreprise",
+                "title": "Extension du département numérique : nouvelles machines"
+            },
+            {
+                "date": "20.10.2025",
+                "category": "Développement durable",
+                "title": "Des propositions durables pour des nuanciers écologiques"
+            },
+            {
+                "date": "05.09.2025",
+                "category": "Étude de cas",
+                "title": "Étude de cas : Le nouveau livre des Tessuti d'Autore"
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Politique de confidentialité",
+        "text": "Il s'agit d'une page réservée pour la politique de confidentialité. En production, insérez ici le texte juridique complet conforme au RGPD.",
+        "todo": "[TODO_PRIVACY_TEXT]"
+    },
+    "cookie": {
+        "title": "Politique de cookies",
+        "text": "Ceci est une page réservée pour la politique en matière de cookies.",
+        "todo": "[TODO_COOKIE_TEXT]"
+    }
+}

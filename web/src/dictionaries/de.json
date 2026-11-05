@@ -1,0 +1,303 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "company": "Unternehmen",
+        "how_we_work": "Arbeitsweise",
+        "products": "Produkte",
+        "consultancy": "Beratung",
+        "news": "Aktuelles",
+        "contacts": "Kontakt",
+        "cta_quote": "Angebot"
+    },
+    "home": {
+        "hero": {
+            "title": "Campionari Sara Group",
+            "subtitle": "Seit über 40 Jahren der Maßstab für absolute Qualität und Zuverlässigkeit in der Herstellung von Textilmusterkollektionen.",
+            "cta_primary": "Angebot anfordern",
+            "cta_secondary": "Sprechen Sie mit uns",
+            "eyebrow": "Seit über 40 Jahren"
+        },
+        "intro": {
+            "title": "Integrierter Prozess",
+            "text": "Vollständige Kontrolle, vom Konzept bis zum fertigen Muster.",
+            "list": [
+                "Interne Lieferkette ohne Abhängigkeit von Dritten.",
+                "Strikte Einhaltung von Fristen und Qualität.",
+                "Flexible Abwicklung großer Volumina."
+            ]
+        },
+        "what_we_do": {
+            "title": "Was wir produzieren",
+            "subtitle": "Display-Lösungen zur optimalen Präsentation von Materialien, Farben und Kollektionen.",
+            "list": [
+                "Textilmusterkollektionen",
+                "Musterbügel (Tirelle)",
+                "Farbkarten",
+                "Memos",
+                "Buchbinderei"
+            ]
+        },
+        "departments": {
+            "title": "Interne Abteilungen",
+            "list": "Konfektionierung, Buchbinderei, Siebdruck, Heißprägen, PVC-Schweißen, Digitaldruck, Grafikabteilung."
+        },
+        "tailored": {
+            "title": "Maßgeschneiderte Lösungen",
+            "text": "Unsere Kreativabteilung verwandelt Ihre Bedürfnisse in konkrete Projekte. Wir entwickeln Ad-hoc-Lösungen, die Ästhetik und Funktionalität vereinen und dabei Kosten und Ertrag optimieren."
+        },
+        "works": {
+            "title": "Arbeiten",
+            "text": "Unsere Projekte sprechen für sich.",
+            "cta": "Portfolio ansehen"
+        },
+        "consultancy": {
+            "title": "Beratung & Engineering",
+            "text": "Wir exportieren unser Know-how weltweit (Saudi-Arabien, Indien, China, Spanien, Mexiko). Wir bieten technische Beratung, Beschaffung von Maschinen und After-Sales-Support.",
+            "cta": "Beratungsdienste entdecken"
+        },
+        "contacts": {
+            "title": "Kontaktieren Sie uns",
+            "text": "Sprechen Sie mit uns über Ihr nächstes Projekt. Schnelle und konkrete Antworten.",
+            "cta_form": "Zum Formular",
+            "cta_whatsapp": "WhatsApp",
+            "kicker": "Starten Sie ein Projekt"
+        },
+        "stats": {
+            "years_label": "Jahre Erfahrung",
+            "supply_chain_label": "Integrierte Lieferkette",
+            "world_title": "Welt",
+            "export_label": "Globaler Export & Beratung",
+            "countries": "Saudi-Arabien, Indien, China, Spanien, Mexiko."
+        },
+        "products": {
+            "kicker": "Unsere Produkte",
+            "campionari_title": "Textilmusterkollektionen",
+            "campionari_desc": "Bücher, Ordner und Präsentationssysteme",
+            "tirelle_title": "Musterbügel & Memos",
+            "tirelle_desc": "Stoffmuster, Bündel und Farbkarten"
+        }
+    },
+    "footer": {
+        "vat": "MwSt 08135450966",
+        "rights": "© 2026 Campionari Sara Group. Alle Rechte vorbehalten.",
+        "address": "Via Gioberti 22 — 20851 Lissone (MB) Italien",
+        "links": {
+            "privacy": "Datenschutzerklärung",
+            "cookies": "Cookie-Richtlinie"
+        },
+        "locations_label": "Standorte",
+        "czech_republic": "Tschechische Republik"
+    },
+    "common": {
+        "read_more": "Mehr lesen",
+        "back": "Zurück",
+        "expand_gallery": "Galerie erweitern",
+        "close": "Schließen",
+        "back_to_products": "Zurück zu den Produkten"
+    },
+    "azienda": {
+        "title": "Unsere Geschichte",
+        "subtitle": "Seit über 40 Jahren der Maßstab für absolute Qualität und Zuverlässigkeit in der Herstellung von Textilmustern.",
+        "supplyTitle": "Komplette Lieferkette",
+        "supplyText": "Von der Idee bis zum fertigen Produkt. Wir kümmern uns um Zuschnitt, Buchbinderei, Siebdruck, Heißprägen, Digitaldruck und verfügen über eine hauseigene Grafikabteilung.",
+        "visionTitle": "Vision",
+        "visionText": "Qualität, Schnelligkeit, Zuverlässigkeit.",
+        "imageLabel": "BILD: FABRIKINNENRAUM / PRODUKTION",
+        "paragraphs_top": [
+            "Mit über 40 Jahren Erfahrung ist die Campionari Sara Group ein Maßstab in der Textilmusterindustrie. Unsere Philosophie basiert auf drei wesentlichen Säulen: absolute Qualität, ständige Zuverlässigkeit und strenge Pünktlichkeit bei jeder Lieferung.",
+            "Wir sind stolz darauf, die gesamte Produktionskette im Haus zu verwalten. Von der Näherei und der Buchbinderei bis zum Siebdruck, vom Heißprägen bis zum PVC-Schweißen, bis hin zum Digitaldruck und unserer eigenen Grafikabteilung - jede Phase wird überwacht, um Spitzenqualität zu gewährleisten."
+        ],
+        "paragraphs_bottom": [
+            "Diese integrierte Struktur ermöglicht es uns, äußerst flexibel auf die Anforderungen des Marktes zu reagieren und sowohl kleine Chargen als auch große Produktionsmengen mit der gleichen Sorgfalt zu behandeln, immer durch maßgeschneiderte Lösungen, die so gestaltet sind, dass jedes Material bestmöglich präsentiert wird.",
+            "Sie können jederzeit auf die Unterstützung engagierter Fachleute zählen, die bereit sind, Sie in jeder Phase Ihres Projekts zu begleiten und präzise Lösungen für jeden Bedarf zu finden. Hinter diesem Service steht ein solides und hochqualifiziertes Team: erfahrene Facharbeiter, Textilfachleute, Buchbinder, Siebdrucker, Grafiker und Kommunikationsexperten, die alle synergetisch zusammenarbeiten, um jede Anfrage in ein konkretes Ergebnis zu verwandeln, das bis ins kleinste Detail ausgearbeitet ist.",
+            "Für uns ist jedes Musterbuch nicht einfach nur ein Produkt, sondern ein strategisches Instrument, das in der Lage ist, die Identität und den Wert der Marke, die es repräsentiert, am besten zum Ausdruck zu bringen."
+        ],
+        "products_title": "Unsere Produkte",
+        "view_all": "Alle ansehen"
+    },
+    "contacts": {
+        "title": "Kontaktieren Sie uns",
+        "text": "Sprechen Sie mit uns über Ihr nächstes Projekt. Schnelle und konkrete Antworten.",
+        "privacy_error": "Bitte akzeptieren Sie die Datenschutzrichtlinie, um fortzufahren.",
+        "thank_you_title": "Danke!",
+        "thank_you_text": "Wir haben Ihre Anfrage erhalten. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+        "email_label": "Schreiben Sie uns",
+        "locations_label": "Unsere Standorte",
+        "czech_republic": "Tschechische Republik",
+        "name_label": "Vor- und Nachname",
+        "company_label": "Unternehmen",
+        "phone_label": "Telefon",
+        "sector_label": "Branche",
+        "sector_sample_books": "Musterkollektionen",
+        "sector_hangers": "Musterbügel",
+        "sector_color_cards": "Farbkarten",
+        "sector_memos": "Memos",
+        "sector_bookbinding": "Buchbinderei",
+        "sector_other": "Sonstiges",
+        "message_label": "Wie können wir Ihnen helfen?",
+        "privacy_text": "Ich habe gelesen und stimme der ",
+        "privacy_link": "Datenschutzerklärung",
+        "submit": "Anfrage senden"
+    },
+    "how_we_work": {
+        "title": "Wie wir arbeiten",
+        "subtitle": "Vom Konzept bis zur Lieferung: ein optimierter Workflow.",
+        "steps": [
+            {
+                "title": "1. Beratung & Prototyping",
+                "text": "Wir analysieren Ihre Bedürfnisse und erstellen detailgetreue Prototypen, um Materialien und Verarbeitungen vor der Produktion zu bewerten."
+            },
+            {
+                "title": "2. Integrierte Produktion",
+                "text": "Wir steuern jede Phase intern: Zuschnitt, Druck, Montage und Verpackung, um eine absolute Qualitätskontrolle zu gewährleisten."
+            },
+            {
+                "title": "3. Qualitätskontrolle",
+                "text": "Jedes einzelne Teil wird streng kontrolliert, um sicherzustellen, dass es den vereinbarten Standards entspricht."
+            },
+            {
+                "title": "4. Globale Logistik",
+                "text": "Wir liefern weltweit in sicheren Verpackungen und arbeiten mit zuverlässigen Partnern zusammen, um Pünktlichkeit und Unversehrtheit zu gewährleisten."
+            }
+        ],
+        "highlights": [
+            {
+                "title": "Integrierter Prozess",
+                "text": "Vom Konzept bis zum fertigen Muster, mit interner Verarbeitung und Qualitätskontrolle."
+            },
+            {
+                "title": "Timing & Zuverlässigkeit",
+                "text": "Planung, Rückverfolgbarkeit und strenge Einhaltung der Liefertermine."
+            },
+            {
+                "title": "Produktion Flexibilität",
+                "text": "Wir bearbeiten kleine Chargen und große Volumina mit maßgeschneiderten Lösungen."
+            }
+        ]
+    },
+    "products": {
+        "title": "Produkte",
+        "subtitle": "Exzellente Präsentationslösungen für Stoffe, Leder und Materialien.",
+        "list": [
+            {
+                "id": "campionari",
+                "title": "Textilmusterkollektionen",
+                "desc": "Maßgeschneiderte Bücher und Ordner.",
+                "longDesc": "Bücher und Ordner, die speziell für Ihre Ausstellungsbedürfnisse gefertigt werden. Handwerkliches Können in Kombination mit industrieller Präzision zur Aufwertung Ihrer Kollektionen.",
+                "image": "/products/campionari/campionari-1.png",
+                "images": [
+                    "/products/campionari/campionari-1.png",
+                    "/products/campionari/campionari-2.jpg",
+                    "/products/campionari/campionari-3.jpg",
+                    "/products/campionari/campionari-4.jpg",
+                    "/products/campionari/campionari-5.jpg"
+                ]
+            },
+            {
+                "id": "tirelle",
+                "title": "Tirelle (Musterbügel)",
+                "desc": "Die praktischste Lösung.",
+                "longDesc": "Die praktischste und eleganteste Lösung für flexible und leicht handhabbare Muster. Personalisierte Haken und hochwertige Verarbeitung für ein sofortiges taktiles Erlebnis.",
+                "image": "/products/tirelle/tirelle-1.jpg",
+                "images": [
+                    "/products/tirelle/tirelle-1.jpg",
+                    "/products/tirelle/tirelle-2.jpg",
+                    "/products/tirelle/tirelle-3.png",
+                    "/products/tirelle/tirelle-4.jpg"
+                ]
+            },
+            {
+                "id": "cartelle",
+                "title": "Farbkarten",
+                "desc": "Präzision ist alles.",
+                "longDesc": "Millimetergenaues Kleben für eine makellose Farbdarstellung. Absolute technische Präzision für Farbkataloge mit einem klaren und professionellen Design.",
+                "image": "/products/cartelle/cartelle-1.png",
+                "images": [
+                    "/products/cartelle/cartelle-1.png",
+                    "/products/cartelle/cartelle-2.jpg",
+                    "/products/cartelle/cartelle-3.jpg",
+                    "/products/cartelle/cartelle-4.jpg",
+                    "/products/cartelle/cartelle-5.jpg"
+                ]
+            },
+            {
+                "id": "memos",
+                "title": "Memos",
+                "desc": "Agile Werkzeuge.",
+                "longDesc": "Kompakte und handliche Werkzeuge für die Verteilung Ihrer Stoffe. Muster und Memokarten, die speziell auf die Verkaufs- und Beratungsberatung zugeschnitten sind.",
+                "image": "/products/memos/memos-1.jpg",
+                "images": [
+                    "/products/memos/memos-1.jpg",
+                    "/products/memos/memos-2.jpg",
+                    "/products/memos/memos-3.jpg",
+                    "/products/memos/memos-4.jpg"
+                ]
+            },
+            {
+                "id": "legatoria",
+                "title": "Buchbinderei",
+                "desc": "Jenseits des Musters.",
+                "longDesc": "Luxuriöse Veredelungen und spezielle Konstruktionen für außergewöhnliche Verpackungen und Ordner. Kreativität und handwerkliches Geschick in der Materialverarbeitung für einzigartige Branding-Tools.",
+                "image": "/products/legatoria/legatoria-1.jpg",
+                "images": [
+                    "/products/legatoria/legatoria-1.jpg"
+                ]
+            }
+        ]
+    },
+    "consultancy": {
+        "title": "Beratung & Engineering",
+        "subtitle": "Nicht nur Produktion: Wir bringen unser Know-how in Ihr Unternehmen.",
+        "services": [
+            {
+                "title": "Prozess-Engineering",
+                "desc": "Optimierung der Arbeitsabläufe für die Inhouse-Produktion."
+            },
+            {
+                "title": "Maschinen und Geräte",
+                "desc": "Auswahl, Kauf und Installation."
+            },
+            {
+                "title": "Support und Ersatzteile",
+                "desc": "Technischer Kundendienst nach dem Kauf."
+            }
+        ],
+        "ctaTitle": "Benötigen Sie technische Unterstützung?",
+        "ctaButton": "Sprechen Sie mit einem Techniker"
+    },
+    "news": {
+        "title": "Neuigkeiten & Events",
+        "items": [
+            {
+                "date": "15.01.2026",
+                "category": "Messen",
+                "title": "Heimtextil 2026: Die neuen Trends"
+            },
+            {
+                "date": "10.12.2025",
+                "category": "Unternehmen",
+                "title": "Erweiterung der Digitalabteilung: Neue Maschinen"
+            },
+            {
+                "date": "20.10.2025",
+                "category": "Nachhaltigkeit",
+                "title": "Nachhaltige Vorschläge für umweltfreundliche Muster"
+            },
+            {
+                "date": "05.09.2025",
+                "category": "Fallstudie",
+                "title": "Fallstudie: Das neue Buch von Tessuti d'Autore"
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Datenschutzerklärung",
+        "text": "Dies ist ein Platzhalter für die Datenschutzerklärung. Fügen Sie hier in der Produktion den vollständigen DSGVO-konformen Rechtstext ein.",
+        "todo": "[TODO_PRIVACY_TEXT]"
+    },
+    "cookie": {
+        "title": "Cookie-Richtlinie",
+        "text": "Dies ist ein Platzhalter für die Cookie-Richtlinie.",
+        "todo": "[TODO_COOKIE_TEXT]"
+    }
+}

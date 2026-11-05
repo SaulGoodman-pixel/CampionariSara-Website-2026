@@ -1,0 +1,303 @@
+{
+    "nav": {
+        "home": "Home",
+        "company": "Azienda",
+        "how_we_work": "Come lavoriamo",
+        "products": "Prodotti",
+        "consultancy": "Consulenza",
+        "news": "News",
+        "contacts": "Contatti",
+        "cta_quote": "Richiedi Preventivo"
+    },
+    "home": {
+        "hero": {
+            "title": "Campionari Sara Group",
+            "subtitle": "Da oltre 40 anni, il riferimento per qualità assoluta e affidabilità nei campionari tessili.",
+            "cta_primary": "Richiedi un preventivo",
+            "cta_secondary": "Parla con noi",
+            "eyebrow": "Da oltre 40 anni"
+        },
+        "intro": {
+            "title": "Processo Integrato",
+            "text": "Controllo totale, dall'idea al campionario finito.",
+            "list": [
+                "Filiera interna senza dipendenze esterne.",
+                "Rispetto rigoroso di tempi e qualità.",
+                "Gestione flessibile di volumi importanti."
+            ]
+        },
+        "what_we_do": {
+            "title": "Cosa Realizziamo",
+            "subtitle": "Soluzioni espositive d'eccellenza.",
+            "list": [
+                "Campionari Tessili",
+                "Tirelle",
+                "Cartelle Colori",
+                "Memos",
+                "Legatoria"
+            ]
+        },
+        "departments": {
+            "title": "Reparti Interni",
+            "list": "Confezione, Legatoria, Serigrafia, Stampa a caldo, Saldatura PVC, Stampa digitale, Ufficio Grafico."
+        },
+        "tailored": {
+            "title": "Soluzioni su Misura",
+            "text": "Il nostro reparto creativo trasforma le vostre esigenze in progetti concreti. Sviluppiamo soluzioni ad hoc che uniscono estetica e funzionalità, ottimizzando costi e resa."
+        },
+        "works": {
+            "title": "Works",
+            "text": "I nostri progetti parlano per noi.",
+            "cta": "Vedi Portfolio"
+        },
+        "consultancy": {
+            "title": "Consulenza & Engineering",
+            "text": "Esportiamo il nostro know-how in tutto il mondo (Arabia Saudita, India, Cina, Spagna, Messico). Offriamo consulenza tecnica, acquisto macchinari e assistenza post-vendita.",
+            "cta": "Scopri Consulenza"
+        },
+        "contacts": {
+            "title": "Contattaci",
+            "text": "Parla con noi del tuo prossimo progetto. Risposte rapide e concrete.",
+            "cta_form": "Vai al form",
+            "cta_whatsapp": "WhatsApp",
+            "kicker": "Inizia un progetto"
+        },
+        "stats": {
+            "years_label": "Anni di esperienza",
+            "supply_chain_label": "Filiera integrata",
+            "world_title": "Mondo",
+            "export_label": "Export & consulenza globale",
+            "countries": "Arabia Saudita, India, Cina, Spagna, Messico."
+        },
+        "products": {
+            "kicker": "I nostri prodotti",
+            "campionari_title": "Campionari Tessili",
+            "campionari_desc": "Books, binder e sistemi espositivi",
+            "tirelle_title": "Tirelle & Memos",
+            "tirelle_desc": "Campioni, mazzette e cartelle colori"
+        }
+    },
+    "footer": {
+        "vat": "P.IVA 08135450966",
+        "rights": "© 2026 Campionari Sara Group. All rights reserved.",
+        "address": "Via Gioberti 22 — 20851 Lissone (MB) — Italia",
+        "links": {
+            "privacy": "Privacy Policy",
+            "cookies": "Cookie Policy"
+        },
+        "locations_label": "Sedi",
+        "czech_republic": "Repubblica Ceca"
+    },
+    "common": {
+        "read_more": "Leggi di più",
+        "back": "Indietro",
+        "expand_gallery": "Espandi Galleria",
+        "close": "Chiudi",
+        "back_to_products": "Torna ai prodotti"
+    },
+    "azienda": {
+        "title": "La Nostra Storia",
+        "subtitle": "Da oltre 40 anni, il riferimento per qualità assoluta e affidabilità nei campionari tessili.",
+        "supplyTitle": "Filiera Completa",
+        "supplyText": "Dall’idea al prodotto finito. Gestiamo internamente Confezione, Cucitura, Rilegatura, Serigrafia, Stampa a caldo, Stampa digitale e studio grafico.",
+        "visionTitle": "Vision",
+        "visionText": "Qualità, Rapidità, Affidabilità.",
+        "imageLabel": "IMMAGINE: INTERNO FABBRICA / PRODUZIONE",
+        "paragraphs_top": [
+            "Con oltre 40 anni di esperienza, Campionari Sara Group rappresenta un punto di riferimento nell'universo del campionario tessile. La nostra filosofia si fonda su tre pilastri imprescindibili: qualità assoluta, affidabilità costante e puntualità rigorosa in ogni consegna.",
+            "Siamo orgogliosi di gestire internamente l'intera filiera produttiva. Dai reparti di confezione e legatoria alla serigrafia, dalla stampa a caldo alla saldatura PVC, fino alla stampa digitale e al nostro ufficio grafico dedicato, ogni fase è monitorata per garantire l'eccellenza."
+        ],
+        "paragraphs_bottom": [
+            "Questa struttura integrata ci permette di rispondere con estrema flessibilità alle esigenze del mercato, gestendo con la medesima cura sia piccoli lotti che volumi produttivi importanti, sempre attraverso soluzioni su misura progettate per valorizzare al meglio ogni materiale.",
+            "Potrete sempre contare sul supporto di figure dedicate, pronte ad accompagnarvi in ogni fase del progetto e a individuare soluzioni puntuali per ogni vostra esigenza. Dietro a questo servizio vi è una squadra solida e altamente qualificata: abili operai di lunga esperienza, periti tessili, legatori, serigrafi, grafici ed esperti in comunicazione, che operano in sinergia per trasformare ogni richiesta in un risultato concreto, curato in ogni dettaglio.",
+            "Per noi, ogni campionario non è semplicemente un prodotto, ma uno strumento strategico capace di esprimere al meglio l'identità e il valore del brand che rappresenta."
+        ],
+        "products_title": "I nostri prodotti",
+        "view_all": "Vedi tutto"
+    },
+    "contacts": {
+        "title": "Contattaci",
+        "text": "Parla con noi del tuo prossimo progetto. Risposte rapide e concrete.",
+        "privacy_error": "Accetta la Privacy Policy per continuare.",
+        "thank_you_title": "Grazie!",
+        "thank_you_text": "Abbiamo ricevuto la tua richiesta. Ti risponderemo al più presto.",
+        "email_label": "Scrivici",
+        "locations_label": "Le nostre sedi",
+        "czech_republic": "Repubblica Ceca",
+        "name_label": "Nome e Cognome",
+        "company_label": "Azienda",
+        "phone_label": "Telefono",
+        "sector_label": "Settore",
+        "sector_sample_books": "Campionari / Books",
+        "sector_hangers": "Tirelle",
+        "sector_color_cards": "Cartelle Colori",
+        "sector_memos": "Memos",
+        "sector_bookbinding": "Legatoria / Speciali",
+        "sector_other": "Altro",
+        "message_label": "Come possiamo aiutarti?",
+        "privacy_text": "Dichiaro di aver preso visione dell'",
+        "privacy_link": "Informativa sulla Privacy",
+        "submit": "Invia Richiesta"
+    },
+    "how_we_work": {
+        "title": "Come Lavoriamo",
+        "subtitle": "Dall'idea alla consegna: un flusso di lavoro ottimizzato.",
+        "steps": [
+            {
+                "title": "1. Consulenza & Prototipazione",
+                "text": "Analizziamo le vostre esigenze e creiamo prototipi fedeli per valutare materiali e finiture prima della produzione."
+            },
+            {
+                "title": "2. Produzione Integrata",
+                "text": "Gestiamo ogni fase internamente: taglio, stampa, assemblaggio e confezione, garantendo controllo totale sulla qualità."
+            },
+            {
+                "title": "3. Controllo Qualità",
+                "text": "Ogni singolo pezzo viene ispezionato rigorosamente per assicurare che rispetti gli standard concordati."
+            },
+            {
+                "title": "4. Logistica Globale",
+                "text": "Spediamo in tutto il mondo con imballaggi sicuri e partner affidabili per garantire puntualità e integrità."
+            }
+        ],
+        "highlights": [
+            {
+                "title": "Processo integrato",
+                "text": "Dal concept al campionario finito, con lavorazioni interne e controllo qualità."
+            },
+            {
+                "title": "Tempi e affidabilità",
+                "text": "Pianificazione, tracciabilità e rispetto rigoroso delle consegne."
+            },
+            {
+                "title": "Flessibilità produttiva",
+                "text": "Gestiamo piccoli lotti e volumi importanti, con soluzioni su misura."
+            }
+        ]
+    },
+    "products": {
+        "title": "Prodotti",
+        "subtitle": "Soluzioni espositive d'eccellenza per tessuti, pelli e materiali.",
+        "list": [
+            {
+                "id": "campionari",
+                "title": "Campionari Tessili",
+                "desc": "Books e Binders su misura.",
+                "longDesc": "Books e Binders realizzati su misura per ogni esigenza espositiva. Qualità artigianale unita a precisione industriale per valorizzare le vostre collezioni.",
+                "image": "/products/campionari/campionari-1.png",
+                "images": [
+                    "/products/campionari/campionari-1.png",
+                    "/products/campionari/campionari-2.jpg",
+                    "/products/campionari/campionari-3.jpg",
+                    "/products/campionari/campionari-4.jpg",
+                    "/products/campionari/campionari-5.jpg"
+                ]
+            },
+            {
+                "id": "tirelle",
+                "title": "Tirelle",
+                "desc": "La soluzione più pratica.",
+                "longDesc": "La soluzione più pratica ed elegante per campionari flessibili e maneggevoli. Ganci personalizzati e finiture di pregio per un'esperienza tattile immediata.",
+                "image": "/products/tirelle/tirelle-1.jpg",
+                "images": [
+                    "/products/tirelle/tirelle-1.jpg",
+                    "/products/tirelle/tirelle-2.jpg",
+                    "/products/tirelle/tirelle-3.png",
+                    "/products/tirelle/tirelle-4.jpg"
+                ]
+            },
+            {
+                "id": "cartelle",
+                "title": "Cartelle Colori",
+                "desc": "Precisione è tutto.",
+                "longDesc": "Incollaggio millimetrico per una presentazione cromatica impeccabile. Precisione tecnica assoluta per cataloghi colori dal design pulito e professionale.",
+                "image": "/products/cartelle/cartelle-1.png",
+                "images": [
+                    "/products/cartelle/cartelle-1.png",
+                    "/products/cartelle/cartelle-2.jpg",
+                    "/products/cartelle/cartelle-3.jpg",
+                    "/products/cartelle/cartelle-4.jpg",
+                    "/products/cartelle/cartelle-5.jpg"
+                ]
+            },
+            {
+                "id": "memos",
+                "title": "Memos",
+                "desc": "Strumenti agili.",
+                "longDesc": "Strumenti agili per la distribuzione dei vostri tessuti in formati compatti. Mazzette e memo card progettate per ottimizzare la consulenza e la vendita.",
+                "image": "/products/memos/memos-1.jpg",
+                "images": [
+                    "/products/memos/memos-1.jpg",
+                    "/products/memos/memos-2.jpg",
+                    "/products/memos/memos-3.jpg",
+                    "/products/memos/memos-4.jpg"
+                ]
+            },
+            {
+                "id": "legatoria",
+                "title": "Legatoria",
+                "desc": "Oltre il campionario.",
+                "longDesc": "Finiture di lusso e costruzioni speciali per packaging e raccoglitori d'eccezione. Creatività e maestria nella lavorazione di materiali per strumenti di branding unici.",
+                "image": "/products/legatoria/legatoria-1.jpg",
+                "images": [
+                    "/products/legatoria/legatoria-1.jpg"
+                ]
+            }
+        ]
+    },
+    "consultancy": {
+        "title": "Consulenza & Engineering",
+        "subtitle": "Non solo produzione: portiamo il nostro know-how nella tua azienda.",
+        "services": [
+            {
+                "title": "Engineering di Processo",
+                "desc": "Ottimizzazione flussi per produzione in-house."
+            },
+            {
+                "title": "Macchinari e Attrezzature",
+                "desc": "Selezione, acquisto e installazione."
+            },
+            {
+                "title": "Assistenza e Ricambi",
+                "desc": "Supporto tecnico post-vendita."
+            }
+        ],
+        "ctaTitle": "Hai bisogno di supporto tecnico?",
+        "ctaButton": "Parla con un tecnico"
+    },
+    "news": {
+        "title": "News & Eventi",
+        "items": [
+            {
+                "date": "15.01.2026",
+                "category": "Fiere",
+                "title": "Heimtextil 2026: Le nuove tendenze"
+            },
+            {
+                "date": "10.12.2025",
+                "category": "Azienda",
+                "title": "Espansione del reparto digitale: nuovi macchinari"
+            },
+            {
+                "date": "20.10.2025",
+                "category": "Sostenibilità",
+                "title": "Proposte sostenibili per campionari eco-friendly"
+            },
+            {
+                "date": "05.09.2025",
+                "category": "Case Study",
+                "title": "Case Study: Il nuovo book per Tessuti d'Autore"
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "text": "Questa è una pagina placeholder per la Privacy Policy. In produzione, inserire qui il testo legale completo conforme al GDPR.",
+        "todo": "[TODO_PRIVACY_TEXT]"
+    },
+    "cookie": {
+        "title": "Cookie Policy",
+        "text": "Questa è una pagina placeholder per la Cookie Policy.",
+        "todo": "[TODO_COOKIE_TEXT]"
+    }
+}

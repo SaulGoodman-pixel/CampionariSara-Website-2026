@@ -1,0 +1,7 @@
+# Materiale originale (foto sorgenti): resta solo in locale
+materiale sito/
+
+# Storico git della cartella web prima dell'unificazione
+.web-git-storico/
+
+.DS_Store

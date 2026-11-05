@@ -1,0 +1,303 @@
+{
+    "nav": {
+        "home": "Home",
+        "company": "Company",
+        "how_we_work": "How we work",
+        "products": "Products",
+        "consultancy": "Consultancy",
+        "news": "News",
+        "contacts": "Contacts",
+        "cta_quote": "Request Quote"
+    },
+    "home": {
+        "hero": {
+            "title": "Campionari Sara Group",
+            "subtitle": "For over 40 years, the benchmark for absolute quality and reliability in textile sample production.",
+            "cta_primary": "Request a quote",
+            "cta_secondary": "Speak with us",
+            "eyebrow": "Over 40 years"
+        },
+        "intro": {
+            "title": "Integrated Process",
+            "text": "Total control, from concept to finished sample book.",
+            "list": [
+                "Internal supply chain with no external dependencies.",
+                "Rigorous adherence to deadlines and quality.",
+                "Flexible management of large volumes."
+            ]
+        },
+        "what_we_do": {
+            "title": "What we produce",
+            "subtitle": "Display solutions designed to showcase materials, colours and collections.",
+            "list": [
+                "Textile sample books",
+                "Hangers",
+                "Colour cards",
+                "Memos",
+                "Bookbinding (covers, headers and finishing)"
+            ]
+        },
+        "departments": {
+            "title": "Internal departments",
+            "list": "Sewing • Bookbinding • Screen printing • Hot stamping • PVC welding • Digital printing • Graphic department"
+        },
+        "tailored": {
+            "title": "Tailored Solutions",
+            "text": "Our creative department turns your needs into concrete projects. We develop ad-hoc solutions combining aesthetics and functionality, optimizing costs and results."
+        },
+        "works": {
+            "title": "Works",
+            "text": "Our projects speak for themselves.",
+            "cta": "View Portfolio"
+        },
+        "consultancy": {
+            "title": "Consultancy & Engineering",
+            "text": "We export our know-how worldwide (Saudi Arabia, India, China, Spain, Mexico). We offer technical consultancy, machinery purchasing, and after-sales support.",
+            "cta": "Discover Consultancy"
+        },
+        "contacts": {
+            "title": "Contact Us",
+            "text": "Talk to us about your next project. Fast and concrete answers.",
+            "cta_form": "Go to form",
+            "cta_whatsapp": "WhatsApp",
+            "kicker": "Start a project"
+        },
+        "stats": {
+            "years_label": "Years of experience",
+            "supply_chain_label": "Integrated supply chain",
+            "world_title": "World",
+            "export_label": "Global export & consultancy",
+            "countries": "Saudi Arabia, India, China, Spain, Mexico."
+        },
+        "products": {
+            "kicker": "Our products",
+            "campionari_title": "Textile Sample Books",
+            "campionari_desc": "Books, binders and display systems",
+            "tirelle_title": "Hangers & Memos",
+            "tirelle_desc": "Swatches, bunches and colour cards"
+        }
+    },
+    "footer": {
+        "vat": "VAT 08135450966",
+        "rights": "© 2026 Campionari Sara Group. All rights reserved.",
+        "address": "Via Gioberti 22 — 20851 Lissone (MB) Italy",
+        "links": {
+            "privacy": "Privacy Policy",
+            "cookies": "Cookie Policy"
+        },
+        "locations_label": "Locations",
+        "czech_republic": "Czech Republic"
+    },
+    "common": {
+        "read_more": "Read more",
+        "back": "Back",
+        "expand_gallery": "Expand Gallery",
+        "close": "Close",
+        "back_to_products": "Back to products"
+    },
+    "azienda": {
+        "title": "Our History",
+        "subtitle": "For over 40 years, the benchmark for absolute quality and reliability in textile sampling.",
+        "supplyTitle": "Complete Supply Chain",
+        "supplyText": "From concept to finished product. We handle Sewing, Bookbinding, Screen Printing, Hot Stamping, Digital Printing, and in-house graphic bureau.",
+        "visionTitle": "Vision",
+        "visionText": "Quality, Speed, Reliability.",
+        "imageLabel": "IMAGE: FACTORY INTERIOR / PRODUCTION",
+        "paragraphs_top": [
+            "With over 40 years of experience, Campionari Sara Group is a benchmark in the textile sampling industry. Our philosophy is built on three essential pillars: absolute quality, constant reliability, and rigorous punctuality in every delivery.",
+            "We take pride in managing the entire production chain in-house. From sewing and bookbinding to screen printing, from hot stamping to PVC welding, all the way to digital printing and our dedicated graphic department, every stage is monitored to ensure excellence."
+        ],
+        "paragraphs_bottom": [
+            "This integrated structure allows us to respond with extreme flexibility to market demands, handling both small batches and large production volumes with the same care, always through tailored solutions designed to best showcase every material.",
+            "You can always count on the support of dedicated professionals, ready to accompany you at every stage of your project and identify precise solutions for every need. Behind this service is a solid and highly qualified team: skilled workers with many years of experience, textile specialists, bookbinders, screen printers, graphic designers and communication experts, all working in synergy to turn every request into a concrete result, crafted in every detail.",
+            "For us, every sample book is not simply a product, but a strategic tool capable of best expressing the identity and value of the brand it represents."
+        ],
+        "products_title": "Our Products",
+        "view_all": "View All"
+    },
+    "contacts": {
+        "title": "Contact Us",
+        "text": "Talk to us about your next project. Fast and concrete answers.",
+        "privacy_error": "Please accept the Privacy Policy to proceed.",
+        "thank_you_title": "Thank you!",
+        "thank_you_text": "We have received your request. We will get back to you soon.",
+        "email_label": "Email Us",
+        "locations_label": "Our locations",
+        "czech_republic": "Czech Republic",
+        "name_label": "Full Name",
+        "company_label": "Company",
+        "phone_label": "Phone",
+        "sector_label": "Industry",
+        "sector_sample_books": "Sample Books",
+        "sector_hangers": "Hangers",
+        "sector_color_cards": "Color Cards",
+        "sector_memos": "Memos",
+        "sector_bookbinding": "Bookbinding",
+        "sector_other": "Other",
+        "message_label": "How can we help?",
+        "privacy_text": "I have read and agree to the ",
+        "privacy_link": "Privacy Policy",
+        "submit": "Send Inquiry"
+    },
+    "how_we_work": {
+        "title": "How We Work",
+        "subtitle": "From concept to delivery: an optimized workflow.",
+        "steps": [
+            {
+                "title": "1. Consultation & Prototyping",
+                "text": "We analyze your needs and create faithful prototypes to evaluate materials and finishes before production."
+            },
+            {
+                "title": "2. Integrated Production",
+                "text": "We handle every phase internally: cutting, printing, assembly, and packaging, ensuring total control over quality."
+            },
+            {
+                "title": "3. Quality Control",
+                "text": "Every single piece is rigorously inspected to ensure it meets agreed standards."
+            },
+            {
+                "title": "4. Global Logistics",
+                "text": "We ship worldwide with secure packaging and reliable partners to ensure punctuality and integrity."
+            }
+        ],
+        "highlights": [
+            {
+                "title": "Integrated Process",
+                "text": "From concept to finished sample, with internal processing and quality control."
+            },
+            {
+                "title": "Timing & Reliability",
+                "text": "Planning, traceability, and rigorous adherence to delivery schedules."
+            },
+            {
+                "title": "Production Flexibility",
+                "text": "We handle small batches and large volumes, with tailored solutions."
+            }
+        ]
+    },
+    "products": {
+        "title": "Products",
+        "subtitle": "Excellent display solutions for fabrics, leathers, and materials.",
+        "list": [
+            {
+                "id": "campionari",
+                "title": "Textile Sample Books",
+                "desc": "Custom-made books and binders.",
+                "longDesc": "Custom-made books and binders for every display need. Craftsmanship combined with industrial precision to enhance your collections.",
+                "image": "/products/campionari/campionari-1.png",
+                "images": [
+                    "/products/campionari/campionari-1.png",
+                    "/products/campionari/campionari-2.jpg",
+                    "/products/campionari/campionari-3.jpg",
+                    "/products/campionari/campionari-4.jpg",
+                    "/products/campionari/campionari-5.jpg"
+                ]
+            },
+            {
+                "id": "tirelle",
+                "title": "Tirelle",
+                "desc": "The most practical solution.",
+                "longDesc": "The most practical and elegant solution for flexible and easy-to-handle samples. Personalized hangers and high-quality finishes for an immediate tactile experience.",
+                "image": "/products/tirelle/tirelle-1.jpg",
+                "images": [
+                    "/products/tirelle/tirelle-1.jpg",
+                    "/products/tirelle/tirelle-2.jpg",
+                    "/products/tirelle/tirelle-3.png",
+                    "/products/tirelle/tirelle-4.jpg"
+                ]
+            },
+            {
+                "id": "cartelle",
+                "title": "Color Cards",
+                "desc": "Precision is everything.",
+                "longDesc": "Millimetric gluing for an impeccable color presentation. Absolute technical precision for color catalogs with a clean and professional design.",
+                "image": "/products/cartelle/cartelle-1.png",
+                "images": [
+                    "/products/cartelle/cartelle-1.png",
+                    "/products/cartelle/cartelle-2.jpg",
+                    "/products/cartelle/cartelle-3.jpg",
+                    "/products/cartelle/cartelle-4.jpg",
+                    "/products/cartelle/cartelle-5.jpg"
+                ]
+            },
+            {
+                "id": "memos",
+                "title": "Memos",
+                "desc": "Agile tools.",
+                "longDesc": "Agile tools for distributing your fabrics in compact formats. Swatches and memo cards designed to optimize consultation and sales.",
+                "image": "/products/memos/memos-1.jpg",
+                "images": [
+                    "/products/memos/memos-1.jpg",
+                    "/products/memos/memos-2.jpg",
+                    "/products/memos/memos-3.jpg",
+                    "/products/memos/memos-4.jpg"
+                ]
+            },
+            {
+                "id": "legatoria",
+                "title": "Bookbinding",
+                "desc": "Beyond sampling.",
+                "longDesc": "Luxury finishes and special constructions for exceptional packaging and binders. Creativity and mastery in material processing for unique branding tools.",
+                "image": "/products/legatoria/legatoria-1.jpg",
+                "images": [
+                    "/products/legatoria/legatoria-1.jpg"
+                ]
+            }
+        ]
+    },
+    "consultancy": {
+        "title": "Consultancy & Engineering",
+        "subtitle": "Not just production: we bring our know-how into your company.",
+        "services": [
+            {
+                "title": "Process Engineering",
+                "desc": "Workflow optimization for in-house production."
+            },
+            {
+                "title": "Machinery & Equipment",
+                "desc": "Selection, purchase and installation."
+            },
+            {
+                "title": "Support & Spare Parts",
+                "desc": "After-sales technical support."
+            }
+        ],
+        "ctaTitle": "Need technical support?",
+        "ctaButton": "Talk to a technician"
+    },
+    "news": {
+        "title": "News & Events",
+        "items": [
+            {
+                "date": "15.01.2026",
+                "category": "Fairs",
+                "title": "Heimtextil 2026: New Trends"
+            },
+            {
+                "date": "10.12.2025",
+                "category": "Corporate",
+                "title": "Digital department expansion: new machinery"
+            },
+            {
+                "date": "20.10.2025",
+                "category": "Sustainability",
+                "title": "Sustainable proposals for eco-friendly sample books"
+            },
+            {
+                "date": "05.09.2025",
+                "category": "Case Study",
+                "title": "Case Study: The new book for Tessuti d'Autore"
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "text": "This is a placeholder page for the Privacy Policy. In production, insert the full GDPR-compliant legal text here.",
+        "todo": "[TODO_PRIVACY_TEXT]"
+    },
+    "cookie": {
+        "title": "Cookie Policy",
+        "text": "This is a placeholder page for the Cookie Policy.",
+        "todo": "[TODO_COOKIE_TEXT]"
+    }
+}
